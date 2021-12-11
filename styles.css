@@ -1,0 +1,148 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family:'Roboto', sans-serif;
+}
+
+h1{
+  margin-top: 0;
+  color: #C37B89;
+  margin: 0 auto;
+  font-family: 'Parisienne', cursive;
+  font-size: 80px;
+  line-height: 2;
+}
+
+.web{
+  color: #C37B89;
+  font-weight: normal;
+}
+
+h2{
+font-family: 'Open Sans', sans-serif;
+color: #C37B89;
+padding-bottom: 10px;
+font-weight: normal;
+font-size: 2.5rem;
+}
+
+h3{
+  font-family: 'Open Sans', sans-serif;
+  color: #C37B89;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container{
+  background-color: #D1E8E4;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+margin: 100px 0;
+}
+
+.school:hover {
+color: gray;
+}
+
+.bottom-container{
+background-color: #C37B89;
+padding: 50px 0 20px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+a{
+  color: #91626c;
+  font-family: 'Open Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #ffffff;
+}
+
+.prof-img {
+  width: 12%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 90px;
+
+}
+
+.skill-img1{
+  width: 25%;
+  float: left;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.skill-img2{
+  width: 25%;
+  float: right;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #C37B89;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #91626c;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
